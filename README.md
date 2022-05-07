@@ -1,4 +1,4 @@
-# เทคนิคการออกแบบและใช้งานระบบดิจิตอลเบื้องต้นด้วยเอฟพีจีเอ
+# เทคนิคการออกแบบและใช้งานระบบดิจิตอลเบื้องต้นด้วย เอฟพีจีเอ
 # Digital Design and Implementation using FPGAs: The Basics
 ###### By Roengrut Rujanakraikarn, PhD
 
